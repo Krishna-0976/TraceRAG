@@ -503,3 +503,4 @@ export const AIWorkspace: React.FC = () => {
     </div>
   );
 };
+

@@ -179,3 +179,4 @@ export interface DashboardStats {
     mean_citation_correctness: number;
   } | null;
 }
+

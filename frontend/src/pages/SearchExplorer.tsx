@@ -210,3 +210,4 @@ export const SearchExplorer: React.FC = () => {
     </div>
   );
 };
+

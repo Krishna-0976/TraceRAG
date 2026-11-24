@@ -443,3 +443,4 @@ Grounding fidelity remained high or improved.
    Unlike superficial mock strings, TraceRAG implements a continuous dimensional hash-projection semantic vectorizer for offline/demo operation. It produces legitimate 1536-dimensional unit vectors exhibiting natural cosine similarity properties, allowing full benchmark execution without external network dependencies.
 3. **Preventing AI Hallucinations**:
    Rather than asking an LLM to "be careful", TraceRAG binds context blocks with chunk IDs, requires inline attribution, and conditions generation on explicit refusal when evidence is insufficient.
+

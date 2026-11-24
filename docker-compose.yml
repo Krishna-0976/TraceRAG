@@ -57,3 +57,4 @@ volumes:
     driver: local
   document_uploads:
     driver: local
+

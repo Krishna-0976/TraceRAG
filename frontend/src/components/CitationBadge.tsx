@@ -57,3 +57,4 @@ export const CitationBadge: React.FC<CitationBadgeProps> = ({ citation, index })
     </div>
   );
 };
+
